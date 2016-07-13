@@ -48,3 +48,10 @@
 .diagram.higher {
 	margin-top: -30px;
 }
+
+.decorated {
+	background-image: url("../pictures/ribbon.svg");
+	background-position: 700px 0px;
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
